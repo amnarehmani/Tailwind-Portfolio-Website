@@ -38,7 +38,7 @@ const TAB_DATA: TabData[] = [
 
 const About: React.FC = () => {
   const [tab, setTab] = useState<string>("skills"); 
-  const [isPending, startTransition] = useTransition(); 
+  const [ isPendng , startTransition] = useTransition(); 
 
 
   const handleTabChange = (id: string) => {

@@ -2,7 +2,7 @@
 import React, {useState} from 'react'
 import Link from 'next/link'
 import HeaderLink from './HeaderLink'
-import { Bars2Icon, Bars3Icon, XMarkIcon } from '@heroicons/react/16/solid'
+import {  Bars3Icon, XMarkIcon } from '@heroicons/react/16/solid'
 import Menu from './Menu'
 
 const headerLink = [
