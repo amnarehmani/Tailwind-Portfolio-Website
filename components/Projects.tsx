@@ -22,7 +22,7 @@ const projectsData = [
   {
     id: 3,
     title: "Currency Convertor",
-    description: "Project 2 description",
+    description: "Project 3 description",
     image: "/image/03.jpg",
     tag: ["All", "Web"],
 
@@ -30,7 +30,7 @@ const projectsData = [
   {
     id: 4,
     title: "Responsive Website",
-    description: "Project 2 description",
+    description: "Project 4 description",
     image: "/image/04.jpg",
     tag: ["All", "Web"],
     
@@ -38,7 +38,7 @@ const projectsData = [
   {
     id: 5,
     title: "To Do App",
-    description: "Project 2 description",
+    description: "Project 5 description",
     image: "/image/05.jpg",
     tag: ["All", "Web"],
 
@@ -46,7 +46,7 @@ const projectsData = [
   {
     id: 6,
     title: "Login/Signup Firebase",
-    description: "Project 2 description",
+    description: "Project 6 description",
     image: "/image/06.jpg",
     tag: ["All", "Web"],
  
